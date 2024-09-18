@@ -1,0 +1,10 @@
+D:\Programmin Advice\C# 14\EditorText\bin\Debug\EditorText.exe.config
+D:\Programmin Advice\C# 14\EditorText\bin\Debug\EditorText.exe
+D:\Programmin Advice\C# 14\EditorText\bin\Debug\EditorText.pdb
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.Form1.resources
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.Properties.Resources.resources
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.csproj.GenerateResource.cache
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.exe
+D:\Programmin Advice\C# 14\EditorText\obj\Debug\EditorText.pdb
